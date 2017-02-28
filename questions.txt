@@ -1,0 +1,7 @@
+﻿Nina Tchirkova
+
+
+1. The general trend is the more data is used to learn the more accurate the tests are.
+2. The curve gets noisier as the percentage of data used increases, this may be because the percentage of data tested gets smaller.
+3. With 90 trials the curve got even noisier. With 9 trials the curve was considerably less noisy.
+4. Larger values of C seem to make the curve noisier while lower values seem to make it less noisy.
